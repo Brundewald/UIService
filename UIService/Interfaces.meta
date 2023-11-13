@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/InternalAssets/Scripts/CheatPanel.meta
+guid: ffa3b09fca56ffb4481e9d2582fd1fd9
+========
+guid: 6e5f6b11aa619e44d9d240b9f29d96e7
+>>>>>>>> 6674180 (Initial commit. Create folder, asmdef and base interfaces for UIService.):Assets/InternalAssets/Scripts/UIService/Interfaces.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

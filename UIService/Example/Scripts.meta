@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Plugins/GameAnalytics/Plugins/Android.meta
+guid: b685f428c46d819408d259ec8a46d0f0
+folderAsset: yes
+timeCreated: 1537519465
+licenseType: Pro
+========
+guid: be88b60ad2971f142aa01e1b26ea5f87
+folderAsset: yes
+>>>>>>>> 9b779152 (- add StateUIConfig):Assets/InternalAssets/Scripts/Infrastructure/Services/UISystem/Example/Scripts.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

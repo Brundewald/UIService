@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/InternalAssets/Fonts.meta
+guid: 4643cf789e6a678439cde5497a5021ff
+========
+guid: c84a6b91ee34dc74ea75e80cf6c866c6
+>>>>>>>> 9b779152 (- add StateUIConfig):Assets/InternalAssets/Scripts/Infrastructure/Services/UISystem/Enums.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
